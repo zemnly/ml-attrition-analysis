@@ -1,7 +1,7 @@
 # ml-attrition-analysis
 A machine learning project undertaken by me to analyze attrition in a workplace.
 
-[Click here to view the project.](https://github.com/zemnley/ml-attrition-analysis/blob/master/Attrition.ipynb)
+[Click here to view the project.](https://github.com/zemnly/ai-ml-dl-projects/blob/master/ml-attrition-analysis/Attrition.ipynb)
 
 We're given datasets for a company which lists out the employees working in the company as well as those who have left the company over a time period of 2018-2019.
 
