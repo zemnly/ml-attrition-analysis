@@ -1,5 +1,5 @@
 # ml-attrition-analysis
-A machine learning project undertaken by me to analyze attrition in a workplace.
+A machine learning project undertaken to analyze attrition in a workplace.
 
 [Click here to view the project.](https://github.com/zemnly/ml-attrition-analysis/blob/master/code/Attrition.ipynb)
 
@@ -9,4 +9,4 @@ The goal of this project is to analyze the reasons for attrition in various depa
 
 It is an excellent real world machine learning problem with actual data provided by a corporation.
 
-The datasets may not be used without my explicit permission.
+The datasets may not be used without explicit permission.
